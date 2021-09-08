@@ -1,4 +1,17 @@
-### Hi there 👋
+# Welcome! 👋
+
+## I'm Gustavo Jesus!
+
+:computer: I'm DevOps Engineer!
+
+:house_with_garden: I’m from Brazil.
+
+## About me
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-henrique-alves-de-jesus-56a04270)](https://www.linkedin.com/in/gustavo-henrique-alves-de-jesus-56a04270) 
+
+- Thanks for visiting.
+- Enjoy it!! o/
 
 <!--
 **gustavojesus/gustavojesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
