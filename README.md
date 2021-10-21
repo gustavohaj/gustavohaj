@@ -2,9 +2,10 @@
 
 ## I'm Gustavo Jesus!
 
-:computer: I'm DevOps Engineer!
+:computer: I'm DevOps Engineer!!! :rocket: :rocket:
 
-🌱 Atualmente estou aprendendo: AWS, Kubernetes, Istio e Python;
+:books: Atualmente estou aprendendo: AWS, Kubernetes, Istio e Python.
+
 :house_with_garden: I’m from Brazil.
 
 
