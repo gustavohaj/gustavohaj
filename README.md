@@ -4,7 +4,7 @@
 
 :computer: I'm DevOps Engineer!!! :rocket: :rocket:
 
-:books: Atualmente estou aprendendo: AWS, Kubernetes, Istio e Python.
+:books: Atualmente estou aprendendo: AWS, Kubernetes, SpringBoot e Python.
 
 :house_with_garden: I’m from Brazil.
 
